@@ -1,4 +1,4 @@
-const text = "this is sharpeners class"
+const text = "this is WebTech class"
 let index = 0;
 
 function writeText() {
